@@ -2,9 +2,14 @@
 
 A new Flutter project.
 
+This application is a simple planner for to-do, task, reminders, etc.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+![Screenshot_20220508-064455](https://user-images.githubusercontent.com/65516660/167292714-33b85442-f0b0-410f-8f3d-9fac53dce020.jpg)
+
 
 A few resources to get you started if this is your first Flutter project:
 
